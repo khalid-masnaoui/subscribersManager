@@ -1,0 +1,21 @@
+{
+    "name": "khalid/comingsoon_02",
+    "description": "simple PHP application for managing the subscribers of a MailerLite account via the MailerLite API.",
+    "authors": [{
+        "name": "khalid-masnaoui",
+        "email": "elmasnaouikhalid1@gmail.com"
+    }],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "mailerlite/mailerlite-api-v2-php-sdk": "^0.3.1",
+        "php-http/guzzle6-adapter": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "class/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ValidateApiKeyTest::testValidateApiKey":4},"times":{"EmailTest::testCanBeCreatedFromValidEmailAddress":0.002,"emailTest::testCanBeCreatedFromValidEmailAddress":0.002,"ValidateApiKeyTest::testCanBeCreatedFromValidEmailAddress":0.002,"ValidateApiKey::testCanBeCreatedFromValidEmailAddress":0.002,"ValidateApiKeyTest::testValidateApiKey":0.006}}
