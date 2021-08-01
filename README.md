@@ -1,6 +1,6 @@
 Welcome to ReadMe! 🦉
 
-Simple PHP application for managing the subscribers of a MailerLite account via the MailerLite API.
+# Simple PHP application for managing the subscribers of a MailerLite account via the MailerLite API.  #
 
 # 📝 Notes
 
